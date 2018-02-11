@@ -1,0 +1,38 @@
+c:\users\narita2014\documents\visual studio 2015\Projects\ClassLibrary4\ClassLibrary4\bin\Release\IllusionPlugin.dll
+c:\users\narita2014\documents\visual studio 2015\Projects\ClassLibrary4\ClassLibrary4\bin\Release\UnityEngine.dll
+C:\Users\narita2014\documents\visual studio 2015\Projects\ClassLibrary4\ClassLibrary4\bin\Release\PlayShot24.dll
+C:\Users\narita2014\documents\visual studio 2015\Projects\ClassLibrary4\ClassLibrary4\bin\Release\PlayShot24.pdb
+C:\Users\narita2014\documents\visual studio 2015\Projects\ClassLibrary4\ClassLibrary4\obj\Release\PlayShot24.dll
+C:\Users\narita2014\documents\visual studio 2015\Projects\ClassLibrary4\ClassLibrary4\obj\Release\PlayShot24.pdb
+C:\Users\narita2014\Documents\Visual Studio 2015\Projects\ClassLibrary4\ClassLibrary4\obj\Release\ClassLibrary4.csprojResolveAssemblyReference.cache
+D:\projects\ClassLibrary4\ClassLibrary4\bin\Release\PlayShot24.dll
+D:\projects\ClassLibrary4\ClassLibrary4\bin\Release\PlayShot24.pdb
+D:\projects\ClassLibrary4\ClassLibrary4\bin\Release\IllusionPlugin.dll
+D:\projects\ClassLibrary4\ClassLibrary4\bin\Release\UnityEngine.dll
+D:\projects\ClassLibrary4\ClassLibrary4\obj\Release\ClassLibrary4.csproj.CoreCompileInputs.cache
+D:\projects\ClassLibrary4\ClassLibrary4\obj\Release\PlayShot24.dll
+D:\projects\ClassLibrary4\ClassLibrary4\obj\Release\PlayShot24.pdb
+D:\projects\ClassLibrary4\ClassLibrary4\bin\Release\IllusionInjector.dll
+D:\projects\ClassLibrary4\ClassLibrary4\bin\Release\IllusionPlugin.xml
+D:\projects\ClassLibrary4\ClassLibrary4\bin\Release\Assembly-CSharp.dll
+D:\projects\ClassLibrary4\ClassLibrary4\bin\Release\UnityEngine.UI.dll
+D:\projects\ClassLibrary4\ClassLibrary4\bin\Release\Assembly-CSharp-firstpass.dll
+D:\projects\ClassLibrary4forHS\ClassLibrary4\bin\Release\IllusionPlugin.dll
+D:\projects\ClassLibrary4forHS\ClassLibrary4\bin\Release\UnityEngine.dll
+D:\projects\ClassLibrary4forHS\ClassLibrary4\bin\Release\IllusionInjector.dll
+D:\projects\ClassLibrary4forHS\ClassLibrary4\bin\Release\IllusionPlugin.xml
+D:\projects\ClassLibrary4forHS\ClassLibrary4\obj\Release\ClassLibrary4.csproj.CoreCompileInputs.cache
+D:\projects\ClassLibrary4forHS\ClassLibrary4\obj\Release\ClassLibrary4.csprojResolveAssemblyReference.cache
+D:\projects\ClassLibrary4forHS\ClassLibrary4\bin\Release\PlayShot24ZHNeo.dll
+D:\projects\ClassLibrary4forHS\ClassLibrary4\bin\Release\PlayShot24ZHNeo.pdb
+D:\projects\ClassLibrary4forHS\ClassLibrary4\obj\Release\PlayShot24ZHNeo.dll
+D:\projects\ClassLibrary4forHS\ClassLibrary4\obj\Release\PlayShot24ZHNeo.pdb
+D:\projects\ClassLibrary4forPH\ClassLibrary4\bin\Release\PlayShot24PHStudio.dll
+D:\projects\ClassLibrary4forPH\ClassLibrary4\bin\Release\PlayShot24PHStudio.pdb
+D:\projects\ClassLibrary4forPH\ClassLibrary4\bin\Release\IllusionPlugin.dll
+D:\projects\ClassLibrary4forPH\ClassLibrary4\bin\Release\UnityEngine.dll
+D:\projects\ClassLibrary4forPH\ClassLibrary4\bin\Release\IllusionInjector.dll
+D:\projects\ClassLibrary4forPH\ClassLibrary4\bin\Release\IllusionPlugin.xml
+D:\projects\ClassLibrary4forPH\ClassLibrary4\obj\Release\ClassLibrary4.csproj.CoreCompileInputs.cache
+D:\projects\ClassLibrary4forPH\ClassLibrary4\obj\Release\PlayShot24PHStudio.dll
+D:\projects\ClassLibrary4forPH\ClassLibrary4\obj\Release\PlayShot24PHStudio.pdb
